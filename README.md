@@ -1,44 +1,29 @@
 <h1 align="center">Hey 👋 I’m Mohamed Ehab</h1>
 
-###
+## 💫 About Me:
+💻 Frontend Developer | 🌐 Web Enthusiast | 🎨 UI/UX Lover<br>
 
-<h2 align="left">💻 Frontend Developer | 🌐 Web Enthusiast | 🎨 UI/UX Lover</h2>
 
-###
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhmad.ehabx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ehab-70143732a) 
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ehab18899&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ehab18899&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehab18899&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ehab18899&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h4 align="left">🔗 Connect with Me</h4>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ehab18899&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ehab-70143732a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/muhmad.ehabx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=ehab18899&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<h5 align="left">🌱 Learning: [e.g. React, TypeScript, Tailwind CSS]<br>💬 Ask me about: JavaScript, CSS, Web Design</h5>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
