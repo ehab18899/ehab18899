@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I’m Mohamed Ehab</h1>
+#Hi 👋, I’m Mohamed Ehab
 
 ## 💫 About Me:
 💻 Frontend Developer | 🌐 Web Enthusiast | 🎨 UI/UX Lover<br>
